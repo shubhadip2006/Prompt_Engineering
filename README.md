@@ -1,2 +1,2 @@
 # Prompt_Engineering 
-I made this projects as part of my College Training.
+I made this Mini Projects as part of my College Training on "Generative AI" & "Prompt Engineering"
